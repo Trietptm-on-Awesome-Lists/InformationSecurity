@@ -38,6 +38,9 @@ Public records can be accessed through the government or private companies. The 
 ###### Pro-tip: Make a FOIA request on yourself [here](https://www.foia.gov/report-makerequest.html) and you can ask for all the information the government has on you. Beware it will take at least 3 months to get a response and you will most likely be rejected.   
 ___
 ### References
-[1] [Guide to Protecting the Confidentiality of Personally Identifiable Information](https://github.com/iamzoh/InformationSecurity/blob/master/PDFs/Protecting%20the%20Confidentiality%20of%20PII%20(NIST).pdf)   
-[2] [U.S. General Services Administration Protecting PII - Privacy Act](https://www.gsa.gov/reference/gsa-privacy-program/rules-and-policies-protecting-pii-privacy-act)
-[3] [What Are Public Records?](https://www.dmv.org/public-records/)
+[Guide to Protecting the Confidentiality of Personally Identifiable Information](https://github.com/iamzoh/InformationSecurity/blob/master/PDFs/Protecting%20the%20Confidentiality%20of%20PII%20(NIST).pdf)   
+[U.S. General Services Administration Protecting PII - Privacy Act](https://www.gsa.gov/reference/gsa-privacy-program/rules-and-policies-protecting-pii-privacy-act)
+[What Are Public Records?](https://www.dmv.org/public-records/)  
+[Coming of Cyber Espionage Norms](https://github.com/iamzoh/InformationSecurity/blob/master/PDFs/Coming%20of%20Cyber%20Espionage%20Norms%20(IEEE%202017).pdf)  
+[Impact of Personally Identifiable Information](https://github.com/iamzoh/InformationSecurity/blob/master/PDFs/Impact%20of%20PII%20(IEEE%202007).pdf)  
+[What Anyone Could Know About You from Twitter](https://github.com/iamzoh/InformationSecurity/blob/master/PDFs/What%20Anyone%20Could%20Knoww%20About%20You%20from%20Twitter%20(IEEE%202012).pdf)
