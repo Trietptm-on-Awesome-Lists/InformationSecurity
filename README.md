@@ -6,4 +6,4 @@ Here is my work so far:
 - What is [Personally Identifiable Information](https://github.com/iamzoh/InformationSecurity/blob/master/Personally%20Identifiable%20Information.md)?
 - The history behind [passwords](https://github.com/iamzoh/InformationSecurity/blob/master/Passwords.md) 
 
-The is an ongoing process.
+This is an ongoing project.
